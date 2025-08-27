@@ -1,6 +1,7 @@
 # Points-Of-Interest
 Minimal, modular repo for storing, managing, and documenting all my points of interest.
 
+```
 points-of-interest/
 │
 ├─ README.md                  # Overview of all interests, how to navigate
@@ -26,3 +27,4 @@ points-of-interest/
 │
 ├─ nature/                     # Observations, ideas, minimal notes
 │   └─ README.md
+```
