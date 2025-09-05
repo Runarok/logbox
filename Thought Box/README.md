@@ -34,13 +34,6 @@ This isn't about polish — it's about momentum. Raw ideas, quick solutions, or 
   _Example_: Personal thoughts, ratings, or thematic discussions on *Stranger Things* seasons or other series.
 ---
 
-## 🔗 Related Links
-
-- Back to main guides: **[`Main README.md`](../README.md)**
-- All sections structured in the larger repo: **[`Runarok-Guides`](../)**
-
----
-
 ## 💡 Purpose
 
 > “Some ideas don’t arrive with a title. You just catch them mid-thought.”
