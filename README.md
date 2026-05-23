@@ -34,6 +34,9 @@ points-of-interest/
 
 ---
 
-Feel free to explore and add content as your interests evolve. This structure is designed to be minimal yet flexible, helping keep everything organized and accessible.
+> Built while exploring an idea. Archived once I moved on to other things, but kept here as part of the learning process and experimentation trail.
 
-Happy exploring! 🚀
+> Search `user:runarok topic:concept-repo` to find all concept repositories I’ve made.
+
+---
+
